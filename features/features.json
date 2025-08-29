@@ -531,6 +531,16 @@
     "dynamic": false
   },
   {
+    "title": "Expanded Join Block",
+    "description": "Allows join blocks to accept more than two inputs.",
+    "file": "expanded-join.js",
+    "type": ["Editor"],
+    "tags": ["New", "Recommended"],
+    "dynamic": true,
+    "credits": ["Chineme_Eze-beta"],
+    "urls": ["https://scratch.mit.edu/users/Chineme_Eze-beta"]
+  },
+  {
     "title": "Load More Posts",
     "description": "Load more posts in the forum without having to switch pages.",
     "credits": ["rgantzos"],
