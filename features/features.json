@@ -550,6 +550,7 @@
     "tags": ["New"],
     "dynamic": false
   },
+  
   {
     "title": "Scroll Project Titles",
     "description": "Allows you to scroll and view the entire title of projects that you don't own.",
@@ -560,6 +561,16 @@
     "tags": ["New", "Recommended"],
     "dynamic": true
   },
+  {
+    "title": "Multi-Line Project Titles",
+    "description": "Allows project titles to include line breaks using Shift + Enter.",
+    "file": "multiline-title.js",
+    "type": ["Editor"],
+    "tags": ["UI", "New"],
+    "dynamic": true,
+    "credits": ["Amarachi"],
+   "urls": ["*://scratch.mit.edu/projects/editor/*"]
+ },
   {
     "title": "Search Context Menus",
     "description": "Type and search context menus to select an option efficiently. You can also press enter to select the top option.",
